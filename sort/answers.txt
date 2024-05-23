@@ -1,0 +1,11 @@
+sort1 uses: bubble sort
+
+How do you know?: it's the second fastest while sorting the sorted ones and it's slow while sorting the reversed ones
+
+sort2 uses: merge sort
+
+How do you know?: it's the fastest while sorting the reversed ones (its O is n log n)
+
+sort3 uses: selection sort
+
+How do you know?: it's the slowest while sorting the sorted ones (its omega is n^2)
